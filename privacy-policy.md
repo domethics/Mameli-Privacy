@@ -1,110 +1,91 @@
-# Privacy Policy
+# Informativa sulla Privacy
 
-_Last updated: 2025-06-12_
+_Ultimo aggiornamento: 12/06/2025_
 
-This privacy policy describes how the **Progetto Mameli** collects, uses, stores, and protects the personal data of users of the **Progetto Mameli** application, which connects to smartwatch devices to monitor health data.
-
----
-
-## 1. Data Controller
-
-- **Controller**: University of Milan  
-- **Address**: via Festa del Perdono 7, 20122 Milan, Italy  
-- **Contact Email**: dpo@unimi.it  
-- **DPO**: Data Protection Officer of the University
+La presente informativa sulla privacy descrive le modalità con cui il **Progetto Mameli** raccoglie, utilizza, conserva e protegge i dati personali degli utenti dell'applicazione **Progetto Mameli**, connessa a dispositivi smartwatch per il monitoraggio dei dati sulla salute.
 
 ---
 
-## 2. Data Collected
+## 1. Titolare del Trattamento
 
-The app collects the following categories of personal data:
-
-- **Identifying Data**: User ID code
-- **Health and Biometric Data**:
-    - Heart rate
-    - Heart rate variability (HRV)
-    - Physical activity level
-    - Sleep quality
-    - Oxygen saturation
-    - Other biometric data from the smartwatch
-- **Location Data**: If authorized by device permissions
+- **Titolare del trattamento**: Università degli Studi di Milano  
+- **Indirizzo**: via Festa del Perdono 7, 20122 Milano  
+- **Email di contatto per la privacy**: dpo@unimi.it  
+- **DPO – Responsabile della Protezione dei Dati**: Data Protection Officer di Ateneo
 
 ---
 
-## 3. Purpose of Processing
+## 2. Dati Raccolti
 
-Personal data are used for scientific research, specifically to analyze how environmental, behavioral, and occupational exposures affect human health and individual susceptibility to diseases. The aim is to identify potential indicators of susceptibility and adaptation to environmental factors.
+Utilizzando l'app, vengono raccolte le seguenti categorie di dati personali:
 
----
-
-## 4. Legal Basis
-
-Data processing is based on **explicit user consent** according to GDPR (Art. 6(1)(a) and Art. 9(2)(a), EU Regulation 2016/679).  
-Consent can be revoked at any time by writing to: dpo@unimi.it. Participation in the project will end upon consent withdrawal.
-
----
-
-## 5. Data Processing and Storage
-
-- Data are processed in accordance with the principles of relevance, completeness, and non-excessiveness.
-- Data are pseudonymized and stored securely on University of Milan infrastructure.
-- Only authorized personnel on the internal secure network may access the data, following the principles of “need to know” and “least privilege.”
-- **Retention period**: 25 years.
-- Data will **not** be disseminated.
-- No data transfer outside the EEA.
-- Data may be published in anonymous, aggregated form in scientific journals and conferences.
+- **Dati identificativi**: codice ID utente
+- **Dati relativi alla salute e dati biometrici**, inclusi:
+    - frequenza cardiaca
+    - variabilità della frequenza cardiaca (HRV)
+    - livello di attività fisica
+    - qualità del sonno
+    - saturazione dell’ossigeno
+    - altri dati biometrici acquisiti dal dispositivo smartwatch
+- **Dati di localizzazione**, se autorizzati tramite i permessi del dispositivo
 
 ---
 
-## 6. Data Sharing
+## 3. Finalità del Trattamento
 
-Data are processed exclusively by the project’s scientific leads (Prof. Valentina Bollati and Prof. Elia Biganzoli) and will **not** be shared with third parties during or after the research.
+Il presente studio ha l’obiettivo di analizzare i meccanismi che mediano l’effetto delle esposizioni ambientali sulla salute umana. È noto che lo sviluppo di molte patologie è influenzato da fattori ambientali, comportamentali e occupazionali, spesso modificabili.
 
----
+Poiché solo una parte degli individui esposti sviluppa una malattia, è importante comprendere quali caratteristiche personali influenzano la suscettibilità individuale. Il progetto intende quindi valutare la capacità di adattamento ai fattori ambientali, allo scopo di spiegare le differenze individuali nella risposta a tali esposizioni e identificare potenziali indicatori di suscettibilità.
 
-## 7. Data Security
-
-Appropriate technical and organizational measures are in place, including:
-- Data encryption
-- Restricted access and secure authentication
-- Regular backups and vulnerability monitoring
+A tal fine, verranno trattati i dati personali elencati al punto 2, raccolti tramite l’applicazione Progetto Mameli e il dispositivo smartwatch.
 
 ---
 
-## 8. User Rights
+## 4. Base Giuridica del Trattamento
 
-Under GDPR (Art. 15–22), you have the right to:
-- Access your data
-- Request correction or deletion
-- Restrict or object to processing
-- Request data portability
+La base giuridica del trattamento dei Suoi dati personali è il Suo consenso esplicito, ai sensi dell’art. 6, par. 1, lett. a) e dell’art. 9, par. 2, lett. a) del Regolamento UE 2016/679 (GDPR).
 
-To exercise your rights, contact the Data Controller or the DPO at dpo@unimi.it, or the project lead at mameli@unimi.it.
+In qualsiasi momento può revocare il consenso al trattamento dei Suoi dati personali scrivendo a: dpo@unimi.it. In tal caso, non sarà possibile proseguire la partecipazione al progetto di ricerca.
 
 ---
 
-## 9. Complaints
+## 5. Modalità del Trattamento e Conservazione dei Dati
 
-You have the right to lodge a complaint with the competent supervisory authority or seek judicial remedy if you believe your data is processed unlawfully.
+I dati raccolti saranno trattati nel rispetto dei principi di pertinenza, completezza e non eccedenza in relazione ai fini per i quali sono trattati, anche con l’ausilio di strumenti informatici e telematici atti a memorizzare e gestire i dati stessi, e, comunque, in modo tale da garantirne la sicurezza e tutelare la massima riservatezza dell’interessato.
 
----
+Tutti i dati raccolti saranno conservati (in forma pseudonimizzata) sulle infrastrutture informatiche disponibili presso l'Università degli Studi di Milano. Tutti i dati saranno trattati utilizzando strumenti e processi in linea col principio di "privacy by design and by default". Solo i soggetti autorizzati connessi alla rete interna protetta avranno accesso ai dati personali e durante il controllo degli accessi verranno applicati i principi di sicurezza di "necessità di sapere" e "privilegio minimo".
 
-## 10. International Transfers
-
-Your data will **not** be transferred outside the European Economic Area (EEA).
-
----
-
-## Contact
-
-For any questions or requests:  
-📧 mameli@unimi.it
+- **I dati saranno conservati per 25 anni.**
+- I dati personali **non saranno diffusi**.
+- I dati **NON saranno trasferiti verso Paesi terzi** o organizzazioni internazionali.
+- I dati saranno oggetto di pubblicazione su riviste scientifiche, presentazione a convegni in forma anonima ed aggregata.
 
 ---
 
-### **Consent**
+## 6. Condivisione dei Dati
 
-You must explicitly consent to the processing of your personal data (including health data) as described in this document. Participation in the project is conditional on your consent.
+I dati saranno trattati dal referente scientifico del progetto (Prof. Valentina Bollati) e dal responsabile per l’analisi dei dati stessi (Prof. Elia Biganzoli).
 
-_Consent may be revoked at any time in the app settings or by emailing dpo@unimi.it. Revoking consent will immediately end your participation in the research project._
+I dati **NON saranno ceduti a terzi** né durante né alla fine della ricerca.
 
+---
+
+## 7. Sicurezza dei Dati
+
+Adottiamo misure tecniche e organizzative adeguate per proteggere i Suoi dati, tra cui:
+- Crittografia dei dati
+- Accessi limitati e autenticazione sicura
+- Backup regolari e monitoraggio delle vulnerabilità
+
+---
+
+## 8. Diritti dell’Utente
+
+È Suo diritto esercitare ai sensi degli artt. da 15 a 22 del RGPD il diritto di:
+- chiedere l'accesso ai dati personali che lo riguardano
+- chiedere la rettifica o la cancellazione degli stessi
+- chiedere la limitazione del trattamento
+- opporsi al trattamento
+- chiedere la portabilità dei dati
+
+Per esercitare tali diritti, può scrivere a dpo@unimi.it opp
