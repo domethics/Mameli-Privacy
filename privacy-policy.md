@@ -88,4 +88,38 @@ Adottiamo misure tecniche e organizzative adeguate per proteggere i Suoi dati, t
 - opporsi al trattamento
 - chiedere la portabilità dei dati
 
-Per esercitare tali diritti, può scrivere a dpo@unimi.it opp
+Per esercitare tali diritti, può scrivere a dpo@unimi.it oppure al referente scientifico del progetto a mameli@unimi.it.
+
+---
+
+## 9. Diritto di proporre reclamo
+
+Gli interessati che ritengono che il trattamento dei dati personali a loro riferiti avvenga in violazione di quanto previsto dal Regolamento hanno il diritto di proporre reclamo al Garante come previsto dall’art. 77 del Regolamento stesso o di adire le opportune sedi giudiziarie ai sensi dell’art. 79 del Regolamento.
+
+---
+
+## 10. Trasferimenti Internazionali
+
+I dati **NON saranno trasferiti fuori dallo Spazio Economico Europeo**.
+
+---
+
+## Contattaci
+
+Per domande o richieste:  
+📧 mameli@unimi.it
+
+---
+
+### Consenso
+
+Dichiaro di aver letto e compreso l’informativa sulla privacy e **acconsento esplicitamente** al trattamento dei miei dati personali, compresi quelli relativi alla salute, per le finalità indicate nel presente documento. La partecipazione al progetto è subordinata alla prestazione di questo consenso.
+
+- [ ] Acconsento al trattamento dei miei dati personali per le finalità indicate  
+- [ ] NON acconsento al trattamento dei miei dati personali
+
+🔒 Il consenso può essere revocato in qualsiasi momento dalle impostazioni dell'app o scrivendo a dpo@unimi.it.  
+La revoca del consenso comporta l’immediata esclusione dal progetto di ricerca.
+
+🔒 Il tuo consenso è sempre revocabile dalle impostazioni dell’app.
+
