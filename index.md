@@ -1,6 +1,6 @@
 # Informativa sulla Privacy
 
-_Ultimo aggiornamento: 12/06/2025_
+_Ultimo aggiornamento: 12/05/2026_
 
 La presente informativa sulla privacy descrive le modalità con cui il **Progetto Mameli** raccoglie, utilizza, conserva e protegge i dati personali degli utenti dell'applicazione **Progetto Mameli**, connessa a dispositivi smartwatch per il monitoraggio dei dati sulla salute.
 
@@ -55,10 +55,13 @@ I dati raccolti saranno trattati nel rispetto dei principi di pertinenza, comple
 
 Tutti i dati raccolti saranno conservati (in forma pseudonimizzata) sulle infrastrutture informatiche disponibili presso l'Università degli Studi di Milano. Tutti i dati saranno trattati utilizzando strumenti e processi in linea col principio di "privacy by design and by default". Solo i soggetti autorizzati connessi alla rete interna protetta avranno accesso ai dati personali e durante il controllo degli accessi verranno applicati i principi di sicurezza di "necessità di sapere" e "privilegio minimo".
 
-- **I dati saranno conservati per 25 anni.**
 - I dati personali **non saranno diffusi**.
 - I dati **NON saranno trasferiti verso Paesi terzi** o organizzazioni internazionali.
 - I dati saranno oggetto di pubblicazione su riviste scientifiche, presentazione a convegni in forma anonima ed aggregata.
+
+### 5.1 Periodo di conservazione dei dati (Data Retention)
+
+**I dati personali raccolti tramite l'applicazione Progetto Mameli sono conservati per un periodo di 25 anni** dalla data di raccolta. Allo scadere di tale periodo, i dati saranno cancellati o resi definitivamente anonimi.
 
 ---
 
@@ -89,6 +92,19 @@ Adottiamo misure tecniche e organizzative adeguate per proteggere i Suoi dati, t
 - chiedere la portabilità dei dati
 
 Per esercitare tali diritti, può scrivere a dpo@unimi.it oppure al referente scientifico del progetto a mameli@unimi.it.
+
+### 8.1 Come richiedere la cancellazione dei propri dati (Data Deletion)
+
+L'utente ha il diritto di richiedere la cancellazione dei propri dati personali in qualsiasi momento, ai sensi dell'art. 17 del Regolamento UE 2016/679 (GDPR).
+
+**Per richiedere la cancellazione dei dati raccolti tramite l'app Progetto Mameli, l'utente può inviare una email a uno dei seguenti indirizzi:**
+
+- 📧 **dpo@unimi.it** (Responsabile della Protezione dei Dati — Università degli Studi di Milano)
+- 📧 **mameli@unimi.it** (Referente scientifico del progetto)
+
+Nella richiesta è sufficiente indicare il proprio codice ID utente. La richiesta sarà evasa entro 30 giorni dalla ricezione, e tutti i dati personali associati saranno cancellati definitivamente dai sistemi del Titolare del trattamento.
+
+In aggiunta, l'utente può **revocare il consenso** al trattamento dei dati in qualsiasi momento dalle impostazioni dell'app: la revoca comporta l'immediata esclusione dal progetto e la cancellazione dei dati associati.
 
 ---
 
